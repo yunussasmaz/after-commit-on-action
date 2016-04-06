@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'after-commit-on-action'
-  s.version     = '0.0.2'
-  s.date        = '2010-07-09'
+  s.version     = '0.0.3'
+  s.date        = '2016-04-06'
   s.summary     = "Adds callbacks such as after_commit_on_create, after_commit_on_update to your ActiveRecord objects and observers."
   s.description = "Adds the following callbacks to your ActiveRecord objects and observers: after_commit_on_create, after_commit_on_update, after_commit_on_save, after_commit_on_destroy."
   s.authors     = ["Yunus Sasmaz"]
